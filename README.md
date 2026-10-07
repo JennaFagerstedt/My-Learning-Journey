@@ -16,3 +16,5 @@ This repository is where I document what I build, break, fix and learn along the
 **Linux:** Ubuntu Server, netplan, nginx, users/groups, chmod/chown/setgid, ufw, smbclient, vim, Bash
 
 **Security principles:** least privilege, default deny / allow-listing, defense in depth, logging & monitoring, separation of system and data
+
+
