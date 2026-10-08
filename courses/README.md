@@ -5,4 +5,4 @@ Each course has its own folder with an overview page and one page per exercise o
 
 | Course | What it covers |
 |---|---|
-| [Operating Systems: Windows and Linux](operating-systems-windows-linux/) | Windows and Linux command-line tools, DNS and `nslookup`, VMware lab troubleshooting |
+| [Operating Systems: Windows and Linux](operating-systems-windows-linux/) | Windows and Linux command-line tools, DNS and `nslookup`, PowerShell (`Get-Command`, `Get-Help`, `Get-Member`), VMware lab troubleshooting |
