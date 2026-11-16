@@ -49,7 +49,7 @@ The documentation counted towards the grade, and writing it made me understand m
 
 ## What I would do differently
 - Start earlier, to leave more time for extra tests and polishing the documentation.
-- Write my own tests before the solution, as a way of deciding what "correct" means.
+- Try writing the tests first next time. Deciding what "correct" means before writing the code would have caught some of my mistakes earlier, like the missing `abs()` in task 3.
 - Turn on Auto Save in VS Code from the start.
 - Keep the repository and the virtual environments separate from the folder I zip, so that cleaning up before hand-in isn't needed.
 
