@@ -48,7 +48,7 @@ The documentation counted towards the grade, and writing it made me understand m
 - **Write the documentation while the reasoning is fresh**, not at the end.
 
 ## What I would do differently
-- Start earlier, so there is time for task 4 and a shot at VG.
+- Start earlier, to leave more time for extra tests and polishing the documentation.
 - Write my own tests before the solution, as a way of deciding what "correct" means.
 - Turn on Auto Save in VS Code from the start.
 - Keep the repository and the virtual environments separate from the folder I zip, so that cleaning up before hand-in isn't needed.
